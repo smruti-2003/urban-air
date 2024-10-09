@@ -8,3 +8,5 @@ xgboost
 Flask
 plotly
 statsmodels
+notebook
+kagglehub
